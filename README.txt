@@ -1,3 +1,6 @@
+This project was done as a part of the course project for the course CS101 in my first year of my BTech at IITB (2021)
+The project is done entirely in c++ with concepts that were taught in the course and few additional concepts as well
+
 Name : Ruchir Mital Parekh 
 Roll number: 210100129
 CS Project: Bubble Trouble
